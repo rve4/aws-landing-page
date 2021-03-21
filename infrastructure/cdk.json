@@ -7,8 +7,8 @@
     "@aws-cdk/core:newStyleStackSynthesis": "true",
     "@aws-cdk/aws-ecr-assets:dockerIgnoreSupport": true,
     "service_name": "mylandingpage",
-    "github_alias": "<YOUR GITHUB ALIAS>",
-    "github_repo_name": "<YOUR REPO NAME>",
+    "github_alias": "rve4",
+    "github_repo_name": "aws-landing-page",
     "github_repo_branch": "main"
   }
 }
